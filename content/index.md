@@ -1,13 +1,15 @@
 ---
-title: Mork Borg
+title: Borgen Trail
 ---
-
-
+# Mork Borg
 ## Party
-[[Wemet]] Noble Jester (Accompanied by [[Silly Sam]])
-[[Urvard]]  Dog 
-[[Qilnoch]] Bobby Flay 
-[[Maniacal Blackened the Plague]] aka Krartar 
+[[Wemet]], Noble Jingler (Accompanied by [[Silly Sam]])
+
+[[Urvard]], The Goodest Boy (probably)
+
+[[Qilnoch]], Bobby Flay 
+
+[[Maniacal Blackened the Plague]] aka Krartar, totally a human.
 
 ## Session 1 (7/13/24)
 
