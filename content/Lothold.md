@@ -1,0 +1,1 @@
+A hamlet with farmland two days Northwest of [[Galgeback]]
