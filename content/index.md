@@ -42,3 +42,28 @@ Hearing moaning sounds below us, the group travels into the basement, where they
 We see a glow in the distance. [[Maniacal Blackened the Plague|Krartar]] ties up the zombies far out of eyeshot, and the group approaches what ends up being [[Lothold]]. The party notes that the fields are rather blighted and scarce. The locals appear to be setting up a large bon fire for some reason. Some of them have sacks with eyes cut out over their head. 
 
 As we enter town, a [[young girl]] approaches [[Wemet]] asking if he is "here for a wedding," then asking if he is the groom. He lies, saying he is the Groom's father, which is quickly found out. She insists that he is her groom, but thinking quickly, he asks about a medicine man, suggesting that he is feeling rather ill and wouldn't want anything bad to happen during the wedding. She seems to know about him.
+
+### Bullets 
+
+- **Galgeback, Rusty Axe Tavern**
+    
+    - Guards demand rebels to surrender.
+    - Wemet, Urvard, and Qilnoch defeat one guard; the other surrenders.
+    - Krartar fails hilariously at boarding up, injuring himself.
+    - Guards arrest everyone in the tavern.
+- **Courtroom Scene**
+    
+    - Judge quickly hands out death sentences.
+    - Krartar confuses the judge.
+    - Bailiff offers redemption by finding a Medicine Man in Lothold to cure the Goblin Curse.
+- **Quest Outline**
+    
+    - Report to High Priestess in Origin.
+    - Travel to Lothold for Medicine Man.
+    - Return with cure knowledge.
+- **Travel**
+	- Encounter abandoned graveyard.
+	- Attacked by zombies; Krartar secretly summons more zombies.
+	- Reach Lothold, blighted fields, locals with sacks on heads.
+	- Young girl claims Wemet is her groom.
+	- Wemet lies about being the groom’s father and asks about a medicine man.
