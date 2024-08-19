@@ -30,8 +30,8 @@ Soon after, the party hears screaming and dogs yelping, followed by loud drummin
 ### Bullet Points
 
 
-- Shadowy man steals an amulet at camp, speaks an ancient language, and vanishes.
-- Jacko hears footsteps; a butterfly twink figure familiar with Velvet mentions the ancient language.
-- Party arrives at Sandy Point for a festival.
-- In Sandy Point, the party meets Mayor Devorin and visits a divination tent.
-- Goblins attack the festival; the Sheriff requests help at the North Gate.
+- [[shadowy man]] steals an amulet at camp, speaks an ancient language, and vanishes.
+- [[Jacko]] hears footsteps; a [[strange anime butterfly twink]] familiar with [[Velvet]] mentions the ancient language.
+- Party arrives at [[Sandy Point]] for a festival.
+- In [[Sandy Point]], the party meets [[Mayor Devorin]] and visits a divination tent.
+- Goblins attack the festival; the [[Sheriff of Sandy Point|sheriff]] requests help at the North Gate.
