@@ -1,0 +1,2 @@
+- [ ] Our [[Quests|quest]] is to go to [[Origin]], report to the [[High Priestess]] and then go to [[Lothold]] to find the [[Medicine Man]], then return with the knowledge of how to cure the [[Goblin Curse]]. 
+- [ ] 

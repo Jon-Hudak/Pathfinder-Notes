@@ -1,5 +1,5 @@
 ---
-title: Pathfinder
+title: LemonFinder
 ---
 ## Session 1
 
