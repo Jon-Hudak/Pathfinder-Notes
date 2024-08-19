@@ -1,1 +1,0 @@
-Goblin curse essentially boils down to getting bit by a goblin will turn you into a goblin.
