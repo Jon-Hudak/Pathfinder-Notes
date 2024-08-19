@@ -27,7 +27,7 @@ The party arrives at [[Sandy Point]]. There is a noteworthy inn called the [[Rus
 
 Soon after, the party hears screaming and dogs yelping, followed by loud drumming. they exit the tent to see the festival being overrun by goblins. The party narrowly defeats the goblins before being approached by the [[Sheriff of Sandy Point]] who asks us to help him defend the North Gate.
 
-## Bullet Points
+### Bullet Points
 
 - Party arrives at Sandy Point for a festival.
 - Shadowy man steals an amulet at camp, speaks an ancient language, and vanishes.
