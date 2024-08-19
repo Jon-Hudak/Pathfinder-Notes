@@ -23,7 +23,7 @@ That night, [[Jacko]] hears footsteps, and a [[strange anime butterfly twink]] e
 
 ### [[Sandy Point]]
 
-We arrive at [[Sandy Point]]. There is a noteworthy inn called the [[Rusty Dragon]]. A friendly man in a blue hat approaches and identifies himself as [[Mayor Devorin]]. While [[Otulm]] explores the Cathedral, the rest of the party enters a strange tent with a butterfly symbol as well as the symbol for divination. Inside, they meet [[Zostra]], a fortune teller, who asks the group to take tarot cards to predict their futures, collectively and individually. 
+The party arrives at [[Sandy Point]]. There is a noteworthy inn called the [[Rusty Dragon]]. A friendly man in a blue hat approaches and identifies himself as [[Mayor Devorin]]. While [[Otulm]] explores the Cathedral, the rest of the party enters a strange tent with a butterfly symbol as well as the symbol for divination. Inside, they meet [[Zostra]], a fortune teller, who asks the group to take tarot cards to predict their futures, collectively and individually. 
 
 Soon after, the party hears screaming and dogs yelping, followed by loud drumming. they exit the tent to see the festival being overrun by goblins. The party narrowly defeats the goblins before being approached by the [[Sheriff of Sandy Point]] who asks us to help him defend the North Gate.
 
