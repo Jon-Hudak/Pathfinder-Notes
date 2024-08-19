@@ -26,3 +26,16 @@ That night, [[Jacko]] hears footsteps, and a [[strange anime butterfly twink]] e
 We arrive at [[Sandy Point]]. There is a noteworthy inn called the [[Rusty Dragon]]. A friendly man in a blue hat approaches and identifies himself as [[Mayor Devorin]]. While [[Otulm]] explores the Cathedral, the rest of the party enters a strange tent with a butterfly symbol as well as the symbol for divination. Inside, they meet [[Zostra]], a fortune teller, who asks the group to take tarot cards to predict their futures, collectively and individually. 
 
 Soon after, the party hears screaming and dogs yelping, followed by loud drumming. they exit the tent to see the festival being overrun by goblins. The party narrowly defeats the goblins before being approached by the [[Sheriff of Sandy Point]] who asks us to help him defend the North Gate.
+
+## Bullet Points
+
+- Party arrives at Sandy Point for a festival.
+- **Otulm**: Human inventor with a construct, Case.
+- **Velvet**: Human magus with sword and magic skills.
+- **Shadowwalker**: Human assassin.
+- **Koata**: Human-bird hybrid (Stryx).
+- **Jacko**: Pumpkin-headed leshy with a vine companion, Erickson.
+- Shadowy man steals an amulet at camp, speaks an ancient language, and vanishes.
+- Jacko hears footsteps; a butterfly figure familiar with Velvet mentions the ancient language.
+- In Sandy Point, the party meets Mayor Devorin and visits a divination tent.
+- Goblins attack the festival; the Sheriff requests help at the North Gate.
