@@ -30,11 +30,6 @@ Soon after, the party hears screaming and dogs yelping, followed by loud drummin
 ## Bullet Points
 
 - Party arrives at Sandy Point for a festival.
-- **Otulm**: Human inventor with a construct, Case.
-- **Velvet**: Human magus with sword and magic skills.
-- **Shadowwalker**: Human assassin.
-- **Koata**: Human-bird hybrid (Stryx).
-- **Jacko**: Pumpkin-headed leshy with a vine companion, Erickson.
 - Shadowy man steals an amulet at camp, speaks an ancient language, and vanishes.
 - Jacko hears footsteps; a butterfly figure familiar with Velvet mentions the ancient language.
 - In Sandy Point, the party meets Mayor Devorin and visits a divination tent.
