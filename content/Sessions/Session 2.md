@@ -37,7 +37,7 @@ He gave the party instructions to clear out the goblin camp and rendezvous with 
 
 ## Graveyard 
 
-The party enters the graveyard and find [[Abstelar Zanthis|The High Priest]] and [[Mayor Devorin|The Mayor]] talking.
+The party enters the graveyard and find [[Abstelar Zanthis|The High Priest]] and [[Balor Hemlock|Sheriff]]talking.
 
 ## Bullets
 
@@ -46,4 +46,4 @@ The party enters the graveyard and find [[Abstelar Zanthis|The High Priest]] and
 - [[Balor Hemlock|The Sheriff]] suggests the attack was a diversion and tasks the party with investigating the graveyard; mentions talking to [[Abstelar Zanthis|Abstelar]]
 - [[Abstelar Zanthis|Abstelar]] reveals "Nock Va Tisa" means "Not Enough Time" in Old Thassilonian and discusses the fall of [[Thassilon]].
 - [[Mayor Devorin]] rewards the party and assigns them to clear a goblin camp, offering 500gp and all plunder.
-- Party finds  [[Abstelar Zanthis|The High Priest]] and [[Mayor Devorin|The Mayor]] conversing in the graveyard.
+- Party finds  [[Abstelar Zanthis|The High Priest]] and [[Balor Hemlock| The Sherriff]] conversing in the graveyard.
