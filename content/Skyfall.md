@@ -1,0 +1,1 @@
+Meteors fell from the sky and destroyed [[Thasalon]] and many other societies. Brought on the [[Age of Darkness]].

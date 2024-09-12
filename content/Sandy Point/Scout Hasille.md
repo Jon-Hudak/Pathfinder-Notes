@@ -1,0 +1,1 @@
+Not much is known except that he has agreed to protect [[Sandy Point]] so long as they don't ask about his past.
