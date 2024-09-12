@@ -1,5 +1,5 @@
 ---
 title: LemonFinder
 ---
-[[Session 2]]
-[[Session 1]]
+- [[Session 1]]
+- [[Session 2]]
