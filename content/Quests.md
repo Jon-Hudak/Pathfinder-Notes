@@ -1,0 +1,6 @@
+- See what's going on at the graveyard.
+	- Given by [[Balor Hemlock]]
+- Clear out Goblin Camp
+	- 500gp reward in addition to plunder
+	- Seek [[Scout Hasille]]
+	- Given by [[Mayor Devorin]]
